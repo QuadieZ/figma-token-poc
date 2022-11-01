@@ -3,13 +3,23 @@
     "tokens/**/*.json"
   ],
   "platforms": {
-    "scss": {
+    "css": {
       "transformGroup": "css",
-      "buildPath": "build/css/",
+      "buildPath": "app/src/build/css/",
       "files": [
         {
           "destination": "_variables.css",
           "format": "css/variables"
+        }
+      ]
+    },
+    "scss": {
+      "transformGroup": "scss",
+      "buildPath": "app/src/build/scss/",
+      "files": [
+        {
+          "destination": "_variables.scss",
+          "format": "scss/variables"
         }
       ]
     }

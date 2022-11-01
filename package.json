@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/QuadieZ/figma-token-poc#readme",
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.12",
     "style-dictionary": "^3.7.1"
   }
 }
