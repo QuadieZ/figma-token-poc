@@ -4,7 +4,8 @@
   "description": "This example code is bare-bones to show you what this framework can do. If you have the style-dictionary module installed globally, you can `cd` into this directory and run: ```bash style-dictionary build ```",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "style": "token-transformer ./tokens/tokens.json ./tokens/output.json global,semantic && style-dictionary build"
   },
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
 {
   "source": [
-    "tokens/**/*.json"
+    "tokens/output.json"
   ],
   "platforms": {
     "css": {
@@ -10,16 +10,6 @@
         {
           "destination": "_variables.css",
           "format": "css/variables"
-        }
-      ]
-    },
-    "scss": {
-      "transformGroup": "scss",
-      "buildPath": "app/src/build/scss/",
-      "files": [
-        {
-          "destination": "_variables.scss",
-          "format": "scss/variables"
         }
       ]
     }

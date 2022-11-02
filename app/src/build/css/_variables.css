@@ -1,12 +1,17 @@
 /**
  * Do not edit directly
- * Generated on Tue, 01 Nov 2022 04:26:33 GMT
+ * Generated on Wed, 02 Nov 2022 00:48:03 GMT
  */
 
 :root {
-  --global-brks-core-color-grey-900: #000000;
-  --global-brks-core-color-grey-600: #555555;
-  --global-brks-core-color-grey-300: #C4C4C4;
-  --global-brks-core-color-grey-100: #F5F5F5;
-  --global-brks-core-color-grey-50: #FFFFFF;
+  --content-primary: #000000;
+  --brks-core-color-grey-900: #000000;
+  --brks-core-color-grey-600: #555555;
+  --brks-core-color-grey-300: #C4C4C4;
+  --brks-core-color-grey-100: #F5F5F5;
+  --brks-core-color-grey-50: #fff;
+  --border-sm: 2px;
+  --border-md: 4px;
+  --fontsize-1: 48px;
+  --fontweight-1: 700;
 }

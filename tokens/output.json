@@ -1,0 +1,42 @@
+{
+  "content-primary": {
+    "value": "#000000",
+    "type": "color"
+  },
+  "--brks-core-color-grey-900": {
+    "value": "#000000",
+    "type": "color"
+  },
+  "--brks-core-color-grey-600": {
+    "value": "#555555",
+    "type": "color"
+  },
+  "--brks-core-color-grey-300": {
+    "value": "#C4C4C4",
+    "type": "color"
+  },
+  "--brks-core-color-grey-100": {
+    "value": "#F5F5F5",
+    "type": "color"
+  },
+  "--brks-core-color-grey-50": {
+    "value": "#fff",
+    "type": "color"
+  },
+  "border-sm": {
+    "value": "2px",
+    "type": "borderRadius"
+  },
+  "border-md": {
+    "value": "4px",
+    "type": "borderRadius"
+  },
+  "fontsize-1": {
+    "value": "48px",
+    "type": "fontSizes"
+  },
+  "fontweight-1": {
+    "value": 700,
+    "type": "fontWeights"
+  }
+}
