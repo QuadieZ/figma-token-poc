@@ -1,6 +1,6 @@
 {
   "content-primary": {
-    "value": "#000000",
+    "value": "#6A4C93",
     "type": "color"
   },
   "--brks-core-color-grey-900": {
@@ -38,5 +38,9 @@
   "fontweight-1": {
     "value": 700,
     "type": "fontWeights"
+  },
+  "--brkl-brand-primary": {
+    "value": "#6A4C93",
+    "type": "color"
   }
 }
