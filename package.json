@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "style": "token-transformer ./tokens/tokens.json ./tokens/output.json global,semantic && style-dictionary build"
+    "style": "token-transformer ./tokens/tokens.json ./tokens/output.json global,alias && style-dictionary build"
   },
   "repository": {
     "type": "git",
